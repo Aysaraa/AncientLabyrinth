@@ -57,6 +57,10 @@ Role: Appears in the Ruined Temple, this creature introduces the player to comba
 
 ## 2- Gladiator Zombie
 
+
+![Ekran Resmi 2024-12-17 23 38 12](https://github.com/user-attachments/assets/99d2ab30-dc48-4807-b204-42293622718c)
+
+
 Description: A heavily armored undead gladiator wielding a spear and shield, highly durable.
 
 HP: 60
