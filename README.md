@@ -35,3 +35,13 @@ For Run
 7- Blue Dragon is the final boss.
 
 8- The last room is 6th room. 
+
+
+# Creatures 
+
+**1- Zombie Dog
+ Description: A snarling undead dog with rotting flesh, agile and relentless.
+HP: 35
+Attack Power: 5
+XP Value: 25
+Role: Appears in the Ruined Temple, this creature introduces the player to combat mechanics
