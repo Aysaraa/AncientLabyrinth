@@ -39,7 +39,7 @@ For Run
 
 # Creatures 
 
-##1- Zombie Dog
+## 1- Zombie Dog
 
 ![zombie-tiger](https://github.com/user-attachments/assets/b2e05c46-da7e-4d70-926c-f75195d77121)
 
