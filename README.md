@@ -17,3 +17,21 @@ For Run
 # ITEM LIST
 
 ![ITEM](https://github.com/user-attachments/assets/296a8bb6-82e4-4f06-8070-5b366cc5f5b8)
+
+# Game Logic 
+
+1- There are 6 rooms
+
+2- Each room has got 2 creatures.
+
+3- Each room's reward is one item.
+
+4- Each item have got different enhancement.
+
+5- If the user die in any room, User will born in the first room. 
+
+6- Inventery limit is 5 items. (Drop your items)
+
+7- Blue Dragon is the final boss.
+
+8- The last room is 6th room. 
