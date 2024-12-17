@@ -20,7 +20,7 @@ For Run
 
 # Game Logic 
 
-1- There are 6 rooms
+1- There are 6 rooms. Each room gets harder and harder.
 
 2- Each room has got 2 creatures.
 
@@ -71,4 +71,42 @@ XP Value: 45
 
 Role: Found in Theatre of Philotheos, serving as a frontline enemy with high endurance.
 
+
+## 3- Scorpion King
+
+
+![scorpion-king](https://github.com/user-attachments/assets/5ff8dfc9-c351-4adb-b49f-25babe2088e3)
+
+
+Description: A colossal, venomous scorpion with deadly claws and a poisoned stinger.
+
+HP: 80
+
+Attack Power: 20
+
+XP Value: 70
+
+Role: The main boss of Cave Of The Scorpion King, known for its devastating attacks.
+
+## 4- Trojan Horse
+
+![trojan-horse](https://github.com/user-attachments/assets/1768c8b5-78c1-47bd-86f1-1646fb2bd147)
+
+
+Description: A massive wooden horse filled with undead soldiers, burning with ominous energy.
+
+HP: 50
+
+Attack Power: 10
+
+XP Value: 40
+
+Role: A key enemy in the Trojan Horse Arena, requiring strategy to overcome its strength.
+
+## 5- Blue Dragon
+
+
+![blue-dragon](https://github.com/user-attachments/assets/ff5e59db-4b25-447f-9459-7068750fb71c)
+
+Blue dragon is a final boss.
 
