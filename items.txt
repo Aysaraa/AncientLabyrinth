@@ -1,0 +1,19 @@
+6
+magic sword
+An ancient sword imbued with magic aura.
+10 5
+zeus's wand
+A wand once wielded by Zeus, crackling with energy.
+5 10
+stone-wing axe
+A heavy axe crafted from stone and mythical wings.
+15 0
+Phoenix Staff
+A staff with a phoenix feather core, glowing with fire.
+0 15
+scorpion sword
+A venomous blade used by the Scorpion King.
+10 10
+Treasure Chest
+A large chest of gold coins.
+5 5

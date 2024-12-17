@@ -1,0 +1,37 @@
+12
+zombie dog
+A snarling undead dog with rotting flesh.
+35 5 25
+zombie tiger
+A giant undead tiger, hungering for flesh.
+45 7 35
+zombie human
+A slow-moving, brain-hungry human zombie.
+40 7 30
+zeus
+The mighty Zeus, corrupted by darkness.
+60 12 50
+Trojan Horse
+A wooden horse filled with undead soldiers.
+50 10 40
+zombie archer
+An undead archer with lethal arrows.
+45 8 35
+gladiator zombie
+A heavily armored undead gladiator.
+60 10 45
+Philotheos
+A fallen hero leading zombie gladiators.
+70 15 60
+scorpion king
+A vicious giant scorpion with a crown.
+80 20 70
+soldier scorpion
+A smaller but deadly scorpion soldier.
+60 15 50
+Blue Dragon
+A mighty azure dragon, the final boss.
+120 25 100
+black dragon
+An ominous black-scaled dragon minion.
+80 20 60

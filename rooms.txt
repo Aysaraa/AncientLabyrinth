@@ -1,0 +1,19 @@
+6
+Ruined Temple
+The entire temple has collapsed, and the hidden zombies have emerged
+1
+Zeus' Shelter
+A shelter protected by Zeus, where zombies reside
+2
+Trojan Horse Arena
+There is a Trojan Horse, and zombies are inside
+3
+Theatre of Philotheos
+Gladiator zombies gathered under the leadership of Philotheos
+4
+Cave Of The Scorpion King
+A cave ruled by the Scorpion King
+5
+Blue Dragon Castle
+A fortified castle housing a Blue Dragon(BIG BOSS) -very difficult-
+6
