@@ -55,3 +55,16 @@ XP Value: 25
 Role: Appears in the Ruined Temple, this creature introduces the player to combat mechanics
 
 
+## 2- Gladiator Zombie
+
+Description: A heavily armored undead gladiator wielding a spear and shield, highly durable.
+
+HP: 60
+
+Attack Power: 10
+
+XP Value: 45
+
+Role: Found in Theatre of Philotheos, serving as a frontline enemy with high endurance.
+
+
