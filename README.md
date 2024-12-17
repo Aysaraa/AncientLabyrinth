@@ -39,9 +39,11 @@ For Run
 
 # Creatures 
 
-**1- Zombie Dog
+##1- Zombie Dog
  Description: A snarling undead dog with rotting flesh, agile and relentless.
 HP: 35
 Attack Power: 5
 XP Value: 25
 Role: Appears in the Ruined Temple, this creature introduces the player to combat mechanics
+
+
